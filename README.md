@@ -25,6 +25,8 @@
   <li>
     Para alinhamento : Flex Box
   </li>
+  <br><br>
+  <li> Link de deploy do projeto: https://alurageek-self.vercel.app/ </li>
 </ul>
 
 
